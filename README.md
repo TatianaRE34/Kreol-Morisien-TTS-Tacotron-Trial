@@ -1,5 +1,5 @@
 **Tacotron TTS For mauritian creole**
-The main code was slightly edited to allow trainig of the mauritian creole. 
+The main code was slightly edited to allow trainig of the mauritian creole. Final year project versioning,
 
 **Dataset**
 KreolDataset currently has 1k sentences, is approximately 2hrs.
